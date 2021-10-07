@@ -1,0 +1,14 @@
+C:\Users\DCL\source\repos\encapsulation\encapsulation\obj\Debug\netcoreapp3.1\encapsulation.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\encapsulation\encapsulation\obj\Debug\netcoreapp3.1\encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\encapsulation\encapsulation\obj\Debug\netcoreapp3.1\encapsulation.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\encapsulation\encapsulation\obj\Debug\netcoreapp3.1\encapsulation.AssemblyInfo.cs
+C:\Users\DCL\source\repos\encapsulation\encapsulation\obj\Debug\netcoreapp3.1\encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\encapsulation\encapsulation\bin\Debug\netcoreapp3.1\encapsulation.exe
+C:\Users\DCL\source\repos\encapsulation\encapsulation\bin\Debug\netcoreapp3.1\encapsulation.deps.json
+C:\Users\DCL\source\repos\encapsulation\encapsulation\bin\Debug\netcoreapp3.1\encapsulation.runtimeconfig.json
+C:\Users\DCL\source\repos\encapsulation\encapsulation\bin\Debug\netcoreapp3.1\encapsulation.runtimeconfig.dev.json
+C:\Users\DCL\source\repos\encapsulation\encapsulation\bin\Debug\netcoreapp3.1\encapsulation.dll
+C:\Users\DCL\source\repos\encapsulation\encapsulation\bin\Debug\netcoreapp3.1\encapsulation.pdb
+C:\Users\DCL\source\repos\encapsulation\encapsulation\obj\Debug\netcoreapp3.1\encapsulation.dll
+C:\Users\DCL\source\repos\encapsulation\encapsulation\obj\Debug\netcoreapp3.1\encapsulation.pdb
+C:\Users\DCL\source\repos\encapsulation\encapsulation\obj\Debug\netcoreapp3.1\encapsulation.genruntimeconfig.cache
