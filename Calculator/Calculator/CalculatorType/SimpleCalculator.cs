@@ -13,8 +13,6 @@ namespace Calculator.CalculatorType
 
         public SimpleCalculator(double operationID,string operationName,double operand1,double operand2,char operator1):base(operationID,operationName)
         {
-            base.OperationID = operationID;
-            base.OperationName = operationName;
             this.Operand1 = operand1;
             this.Operand2 = operand2;
             this.Operator = operator1;

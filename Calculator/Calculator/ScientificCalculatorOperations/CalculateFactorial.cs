@@ -7,13 +7,17 @@ namespace Calculator.ScientificCalculatorOperations
 {
     class CalculateFactorial:ScientificCalculator
     {
-        int n;
-        double result;
+        public int n
+        {
+            get; set;
+        }
+        public double result
+        {
+            get; set;
+        } 
 
         public CalculateFactorial(double operationID, string operationName,double model,string brand, int number) : base(operationID, operationName,model,brand)
         {
-            base.OperationID = operationID;
-            base.OperationName = operationName;
             this.n = number;
             this.result = this.Factorial();
         }

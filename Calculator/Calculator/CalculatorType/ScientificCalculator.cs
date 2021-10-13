@@ -11,8 +11,6 @@ namespace Calculator.CalculatorType
 
         public ScientificCalculator(double operationID, string operationName, double model, string brand) : base(operationID, operationName)
         {
-            base.OperationID = operationID;
-            base.OperationName = operationName;
             this.Model = model;
             this.Brand = brand;
         }
