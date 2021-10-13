@@ -19,6 +19,7 @@ namespace Calculator
             throw new NotImplementedException();
         }
 
+
         public virtual void PrintResult()
         {
             Console.WriteLine("Operation ID: " + OperationID + "\nOperation Name: " + OperationName);
