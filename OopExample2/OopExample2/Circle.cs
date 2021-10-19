@@ -46,7 +46,7 @@ namespace OopExample2
         {
             string r = Convert.ToString(this.radius);
             string c = this.color;
-            return c;
+            return c+r;
         }
     }
 }
